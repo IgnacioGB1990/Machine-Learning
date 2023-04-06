@@ -1,3 +1,8 @@
+
+
+![imagen](https://scikit-learn.org/stable/_static/ml_map.png)
+
+
 # 1. Import the Data
 # 2. Clean the Data
 # 3. Split the Data into Training/Test Sets

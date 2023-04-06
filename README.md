@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> ce7a1a9d150fa166d9f5ce92b1bdfd7bd9995af2
 ![imagen](https://scikit-learn.org/stable/_static/ml_map.png)
 
 
